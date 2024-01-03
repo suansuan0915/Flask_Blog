@@ -1,2 +1,2 @@
 # Flask_Blog
- flask learning
+A Flask blog for practice.
