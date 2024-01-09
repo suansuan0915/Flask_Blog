@@ -1,0 +1,9 @@
+
+*.pyc
+__pycache__/forms.cpython-312.pyc
+flaskblog/.DS_Store
+.DS_Store
+*.pyc
+__pycache__/flaskblog.cpython-312.pyc
+__pycache__/forms.cpython-312.pyc
+__pycache__/forms.cpython-312.pyc
